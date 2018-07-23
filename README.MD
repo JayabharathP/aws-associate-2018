@@ -1,8 +1,18 @@
 
-[Lessons-Learned-Being-Serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
+## References
 
-[AWS resources to prepare for the AWS Certifications](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc)
+* [Lessons-Learned-Being-Serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
 
-[E-book-AWS-Cloud-Academy](https://cloudacademy.com/ebooks/)
+* [AWS resources to prepare for the AWS Certifications](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc)
 
-[ML-CloudAcademy](https://cloudacademy.com/library/machine-learning/)
+* [E-book-AWS-Cloud-Academy](https://cloudacademy.com/ebooks/)
+
+* [ML-CloudAcademy](https://cloudacademy.com/library/machine-learning/)
+
+* [http://colah.github.io](http://colah.github.io)
+
+* [Neural-Networks-and-Deep-Learning](http://neuralnetworksanddeeplearning.com)
+
+* [Code samples for NN](https://github.com/mnielsen/neural-networks-and-deep-learning)
+
+* [neural-networks-playlist]( http://3b1b.co/neural-networks)
