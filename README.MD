@@ -5,6 +5,8 @@
 
 * [AWS resources to prepare for the AWS Certifications](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc)
 
+* [jayendrapatil.com-aws-global-vs-regional-vs-az-resources/](http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/)
+
 * [E-book-AWS-Cloud-Academy](https://cloudacademy.com/ebooks/)
 
 * [ML-CloudAcademy](https://cloudacademy.com/library/machine-learning/)
