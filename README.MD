@@ -20,3 +20,5 @@
 * [neural-networks-playlist]( http://3b1b.co/neural-networks)
 
 * [why-do-we-do-meditation-and-fast](https://dharamvigyaan.blogspot.com/2015/12/why-do-we-do-meditation-and-fast-during.html)
+
+* [dynamo-db-guide](https://www.dynamodbguide.com/the-dynamo-paper/)
