@@ -5,6 +5,8 @@
 
 ## AWS Resources
 
+* [Study-Notes-for-AWS-Certified-Solutions-Architect-Associate-2017](https://github.com/agasthik/aws-csa-2017)
+
 * [dynamo-db-guide](https://www.dynamodbguide.com/the-dynamo-paper/)
 
 * [a-decade-of-dynamo](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
