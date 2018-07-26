@@ -3,11 +3,21 @@
 
 * [Lessons-Learned-Being-Serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
 
+## AWS Resources
+
+* [dynamo-db-guide](https://www.dynamodbguide.com/the-dynamo-paper/)
+
+* [a-decade-of-dynamo](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
+
+* [aws-shared-responsibility-model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+
 * [AWS resources to prepare for the AWS Certifications](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc)
 
 * [jayendrapatil.com-aws-global-vs-regional-vs-az-resources/](http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/)
 
 * [E-book-AWS-Cloud-Academy](https://cloudacademy.com/ebooks/)
+
+## Machine Learning
 
 * [ML-CloudAcademy](https://cloudacademy.com/library/machine-learning/)
 
@@ -17,10 +27,6 @@
 
 * [Code samples for NN](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
-* [neural-networks-playlist]( http://3b1b.co/neural-networks)
+* [neural-networks-playlist](http://3b1b.co/neural-networks)
 
 * [why-do-we-do-meditation-and-fast](https://dharamvigyaan.blogspot.com/2015/12/why-do-we-do-meditation-and-fast-during.html)
-
-* [dynamo-db-guide](https://www.dynamodbguide.com/the-dynamo-paper/)
-
-* [a-decade-of-dynamo](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
