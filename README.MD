@@ -38,3 +38,5 @@
 * [modern-face-recognition-with-deep-learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 
 * [Open-face](https://cmusatyalab.github.io/openface/usage/)
+
+* [Data-science](https://towardsdatascience.com/)
