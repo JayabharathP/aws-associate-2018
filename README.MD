@@ -32,3 +32,9 @@
 * [neural-networks-playlist](http://3b1b.co/neural-networks)
 
 * [why-do-we-do-meditation-and-fast](https://dharamvigyaan.blogspot.com/2015/12/why-do-we-do-meditation-and-fast-during.html)
+
+## Face recognition
+
+* [modern-face-recognition-with-deep-learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+
+* [Open-face](https://cmusatyalab.github.io/openface/usage/)
