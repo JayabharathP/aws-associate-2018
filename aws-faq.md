@@ -18,6 +18,7 @@ While Athena is ideal for quick, ad-hoc querying and integrates with Amazon Quic
 
 ### VPC points to remember
 
+* [amazon-vpc-limits](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/amazon-vpc-limits.html)
 * There can only be 5 VPCs per REGION
 * Block IP Address using NACL.
 * When creating a NAT instance, Disable Source/Destination check on the instance
