@@ -8,3 +8,9 @@ To get started, just log into the Athena Management Console, define your schema,
 While Athena is ideal for quick, ad-hoc querying and integrates with Amazon QuickSight for easy visualization, it can also handle complex analysis, including large joins, window functions, and arrays. 
 
 
+### NAT vs Bastions
+
+* A NAT is used to provide internet traffic to EC2 instances in private subnets
+
+* A Bastion is used to securely administer EC2 instances  (using SSH or RDP) in private subnets. 
+
