@@ -16,12 +16,25 @@ While Athena is ideal for quick, ad-hoc querying and integrates with Amazon Quic
 * A Bastion is used to securely administer EC2 instances  (using SSH or RDP) in private subnets. 
 
 
-### VPC points to remember
+### VPC/Subnets points to remember
+
+* [VPC-Subnets](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html#vpc-subnet-basics)
+* A VPC spans all AZs in the region.
+* There can only be 5 VPCs per REGION. A region has a minimum of 3 AZs. 
+* A Subnet is created within a VPC and is assigned a unique ID. 
+* A Subnet cannot span across AZ. A subnet is always within a AZ. 
+* A Subnet becomes public when its traffic is routed through an Internet Gateway. 
+* You can create a **flow log** on your VPC or subnet to capture the traffic that flows to and from the network interfaces in your VPC or subnet.
+* AWS provides two features that you can use to increase security in your VPC: security groups and network ACLs. 
+  * Security groups control inbound and outbound traffic for your instances, and 
+  * network ACLs control inbound and outbound traffic for your subnets.
+* Each subnet must be associated with a route table, which specifies the allowed routes for outbound traffic leaving the subnet. Every subnet that you create is automatically associated with the main route table for the VPC.
+* [VPC-Peering-Guide](https://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/Welcome.html)
+* A VPC peering connection is a networking connection between two VPCs that enables you to route traffic between them using private IPv4 addresses or IPv6 addresses. Instances in either VPC can communicate with each other as if they are within the same network.
 
 * [amazon-vpc-limits](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/amazon-vpc-limits.html)
-* There can only be 5 VPCs per REGION
 * Block IP Address using NACL.
-* When creating a NAT instance, Disable Source/Destination check on the instance
+* When creating a NAT instance, Disable Source/Destination check on the instance.
 * NAT instances must be in a public subnet.
 * There must be a route out of the private subnet to the NAT instance in order for this to work.
 * The amount of traffic that NAT instances can support depends on the instance size. If you are bottlenecking, increase the instance size. 
