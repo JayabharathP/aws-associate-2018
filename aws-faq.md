@@ -9,16 +9,19 @@ While Athena is ideal for quick, ad-hoc querying and integrates with Amazon Quic
 
 ## July-29-2018
 
+### AWS References
+
+* [VPC-Subnets](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html#vpc-subnet-basics)
+* [VPC-Peering-Guide](https://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/Welcome.html)
+* [VPC-Limits](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/amazon-vpc-limits.html)
+
 ### NAT vs Bastions
 
 * A NAT is used to provide internet traffic to EC2 instances in private subnets
-
 * A Bastion is used to securely administer EC2 instances  (using SSH or RDP) in private subnets. 
-
 
 ### VPC/Subnets points to remember
 
-* [VPC-Subnets](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html#vpc-subnet-basics)
 * A VPC spans all AZs in the region.
 * There can only be 5 VPCs per REGION. A region has a minimum of 3 AZs. 
 * A Subnet is created within a VPC and is assigned a unique ID. 
@@ -29,10 +32,7 @@ While Athena is ideal for quick, ad-hoc querying and integrates with Amazon Quic
   * Security groups control inbound and outbound traffic for your instances, and 
   * network ACLs control inbound and outbound traffic for your subnets.
 * Each subnet must be associated with a route table, which specifies the allowed routes for outbound traffic leaving the subnet. Every subnet that you create is automatically associated with the main route table for the VPC.
-* [VPC-Peering-Guide](https://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/Welcome.html)
 * A VPC peering connection is a networking connection between two VPCs that enables you to route traffic between them using private IPv4 addresses or IPv6 addresses. Instances in either VPC can communicate with each other as if they are within the same network.
-
-* [amazon-vpc-limits](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/amazon-vpc-limits.html)
 * Block IP Address using NACL.
 * When creating a NAT instance, Disable Source/Destination check on the instance.
 * NAT instances must be in a public subnet.
@@ -48,6 +48,3 @@ While Athena is ideal for quick, ad-hoc querying and integrates with Amazon Quic
 * Scale automatically upto 10 GBPS.
 * Automatically assigned PUBLIC IP address.
 * More secure than NAT instances.
-
-
-
