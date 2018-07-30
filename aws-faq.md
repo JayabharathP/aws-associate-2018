@@ -34,11 +34,15 @@ While Athena is ideal for quick, ad-hoc querying and integrates with Amazon Quic
 * Each subnet must be associated with a route table, which specifies the allowed routes for outbound traffic leaving the subnet. Every subnet that you create is automatically associated with the main route table for the VPC.
 * A VPC peering connection is a networking connection between two VPCs that enables you to route traffic between them using private IPv4 addresses or IPv6 addresses. Instances in either VPC can communicate with each other as if they are within the same network.
 * Block IP Address using NACL.
+
+### NAT instances
+
 * When creating a NAT instance, Disable Source/Destination check on the instance.
 * NAT instances must be in a public subnet.
 * There must be a route out of the private subnet to the NAT instance in order for this to work.
 * The amount of traffic that NAT instances can support depends on the instance size. If you are bottlenecking, increase the instance size. 
-* Scaling NAT instance  - Create high availability using auto scaling groups, multiple subnets in different AZs and a script to automate failover.
+* Scaling NAT instance 
+  * Create high availability using auto scaling groups, multiple subnets in different AZs and a script to automate failover.
 * NAT instances are always behind a security group. 
 * NAT Gateways are better than NAT instances
 
