@@ -23,7 +23,7 @@
 
 * [forums.fast.ai](http://forums.fast.ai/faq)
 * [great-deep-learning-box-assembly](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
-
+* [newbies-guide-to-deep-learning](https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e)
 
 ## Machine Learning
 
