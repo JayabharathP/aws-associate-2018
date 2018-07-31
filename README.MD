@@ -19,6 +19,12 @@
 
 * [E-book-AWS-Cloud-Academy](https://cloudacademy.com/ebooks/)
 
+## AI Forums
+
+* [forums.fast.ai](http://forums.fast.ai/faq)
+* [great-deep-learning-box-assembly](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
+
+
 ## Machine Learning
 
 * [ML-CloudAcademy](https://cloudacademy.com/library/machine-learning/)
