@@ -44,3 +44,6 @@
 ## AWS Bot Framework
 
 * [bots-just-got-better-net-toolkit-lex-lambda-cognito](https://aws.amazon.com/getting-started/projects/bots-just-got-better-net-toolkit-lex-lambda-cognito/)
+
+* [serverless-websockets-with-aws-lambda-fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354)
+
