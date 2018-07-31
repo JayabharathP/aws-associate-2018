@@ -40,3 +40,7 @@
 * [Open-face](https://cmusatyalab.github.io/openface/usage/)
 
 * [Data-science](https://towardsdatascience.com/)
+
+## AWS Bot Framework
+
+* [bots-just-got-better-net-toolkit-lex-lambda-cognito](https://aws.amazon.com/getting-started/projects/bots-just-got-better-net-toolkit-lex-lambda-cognito/)
