@@ -3,6 +3,8 @@
 
 * [Lessons-Learned-Being-Serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
 
+* [AWS_Well-Architected_Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+
 ## AWS Resources
 
 * [Study-Notes-for-AWS-Certified-Solutions-Architect-Associate-2017](https://github.com/agasthik/aws-csa-2017)
