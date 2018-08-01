@@ -52,3 +52,9 @@ While Athena is ideal for quick, ad-hoc querying and integrates with Amazon Quic
 * Scale automatically upto 10 GBPS.
 * Automatically assigned PUBLIC IP address.
 * More secure than NAT instances.
+
+##### Use Case for AWS Glue
+
+You can use AWS Glue when you run serverless queries against your Amazon S3 data lake. AWS Glue can catalog your Amazon Simple Storage Service (Amazon S3) data, making it available for querying with Amazon Athena and Amazon Redshift Spectrum. With crawlers, your metadata stays in sync with the underlying data. Athena and Redshift Spectrum can directly query your Amazon S3 data lake using the AWS Glue Data Catalog. With AWS Glue, you access and analyze data through one unified interface without loading it into multiple data silos.
+
+
