@@ -29,6 +29,8 @@
 
 ## Machine Learning
 
+* [research.fb.com-videos-machine-learning-academy](https://research.fb.com/videos/series/machine-learning-academy/)
+
 * [ML-CloudAcademy](https://cloudacademy.com/library/machine-learning/)
 
 * [http://colah.github.io](http://colah.github.io)
