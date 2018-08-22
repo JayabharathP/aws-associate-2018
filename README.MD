@@ -1,4 +1,10 @@
 
+## Javascript and Typescript book
+
+* [JavaScript-Book](https://github.com/getify/You-Dont-Know-JS)
+
+* [Typescript](https://basarat.gitbooks.io/typescript/)
+
 ## References
 
 * [Lessons-Learned-Being-Serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
