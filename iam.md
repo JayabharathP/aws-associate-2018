@@ -12,6 +12,6 @@ The IAM infrastructure includes the following elements:
 
 ### Principal
 
-* A principal is an entity that can make a request for an action or operation on an AWS resource. 
+* A principal is **an entity that can make a request for an action or operation** on an AWS resource. 
 * Users, roles, federated users, and applications are all AWS principals. 
 * Your AWS account root user is your first principal.
