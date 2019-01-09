@@ -13,6 +13,8 @@
 
 ## AWS Resources
 
+* [AWS re:Invent videos](https://reinventvideos.com/)
+
 * [Study-Notes-for-AWS-Certified-Solutions-Architect-Associate-2017](https://github.com/agasthik/aws-csa-2017)
 
 * [dynamo-db-guide](https://www.dynamodbguide.com/the-dynamo-paper/)
